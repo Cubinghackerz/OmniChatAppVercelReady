@@ -6,3 +6,4 @@ import axios from 'axios';
 const models = ['Gemini', 'Claude', 'ChatGPT', 'Grok (XAI)', 'Perplexity'];
 
 // (Rest of the content omitted for brevity in the code block)
+export default function App() {
